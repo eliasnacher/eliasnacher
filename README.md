@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eliasnacher
 - 👀 I’m interested in all kind of programming
-- 🌱 I’m currently learning NodeJS and Symfony
+- 🌱 I’m currently learning VueJS and Symfony
 - 💞️ I’m looking to collaborate on a good project
 - 📫 You can contact me at eliasnacher@gmail.com
 
